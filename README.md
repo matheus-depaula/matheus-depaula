@@ -1,6 +1,6 @@
 ### 👋 hey, welcome
 
-Atuando como dev web fullstack jr e sempre em busca de novos aprendizados e desafios.
+Atuando como `dev web fullstack jr` e sempre em busca de novos aprendizados e desafios.
 
 <br />
 
