@@ -1,4 +1,4 @@
-### 👋 Olá, me chamo Matheus,
+### 👋 Olá! Me chamo Matheus,
 
 Atuo como `desenvolvedor web full stack jr` e estou sempre em busca de novos aprendizados e desafios.
 
