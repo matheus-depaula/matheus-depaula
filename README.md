@@ -1,6 +1,6 @@
-### 👋 hey, welcome
+### 👋 Olá, me chamo Matheus,
 
-Atuando como `dev web fullstack jr` e sempre em busca de novos aprendizados e desafios.
+Atuo como `desenvolvedor web full stack jr` e estou sempre em busca de novos aprendizados e desafios.
 
 <br />
 
