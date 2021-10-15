@@ -32,6 +32,14 @@ Atuando como `dev web fullstack jr` e sempre em busca de novos aprendizados e de
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" align="left" height="40" />
   </a>
+  
+  <a href="https://pt-br.reactjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Js" align="left" height="40" />
+  </a>
+
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next Js" height="40"  />
+  </a>
 
   <a href="https://sass-lang.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" align="left" height="40" />
@@ -40,23 +48,11 @@ Atuando como `dev web fullstack jr` e sempre em busca de novos aprendizados e de
   <a href="https://getbootstrap.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" align="left" height="40" />
   </a>
-
-  <a href="https://pt-br.reactjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Js" align="left" height="40" />
-  </a>
-
-  <a href="https://nextjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next Js" height="40"  />
-  </a>
 </div>
 
 <div>
   <a href="https://nodejs.org/en/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node Js" align="left" height="40" />
-  </a>
-  
-  <a href="https://expressjs.com/pt-br/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" align="left" height="40" />
   </a>
   
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
@@ -77,10 +73,6 @@ Atuando como `dev web fullstack jr` e sempre em busca de novos aprendizados e de
   
   <a href="https://www.postgresql.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" align="left" height="40" />
-  </a>
-  
-  <a href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" align="left" height="40" />
   </a>
   
   <a href="https://firebase.google.com/?hl=pt">
