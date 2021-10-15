@@ -38,7 +38,7 @@ Atuando como `dev web fullstack jr` e sempre em busca de novos aprendizados e de
   </a>
 
   <a href="https://nextjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next Js" height="40"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next Js" align="left" height="40"  />
   </a>
 
   <a href="https://sass-lang.com/">
@@ -46,7 +46,7 @@ Atuando como `dev web fullstack jr` e sempre em busca de novos aprendizados e de
   </a>
 
   <a href="https://getbootstrap.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" align="left" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" />
   </a>
 </div>
 
