@@ -66,11 +66,7 @@ Atuo como `desenvolvedor web full stack jr` e estou sempre em busca de novos apr
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" align="left" height="40" />
   </a>
-  
-  <a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" align="left" height="40" />
-  </a>
-  
+
   <a href="https://www.postgresql.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" align="left" height="40" />
   </a>
