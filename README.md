@@ -13,9 +13,8 @@ Atuo como `desenvolvedor web full stack jr` e estou sempre em busca de novos apr
   </a>
 </div>
 
-##
+<br />
 
-### 🚀 Stacks com as quais trabalho:
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" align="left" height="40" />
