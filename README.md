@@ -1,6 +1,6 @@
 ### 👋 Olá! Me chamo Matheus,
 
-Atuo como `desenvolvedor full stack jr` e estou sempre em busca de novos aprendizados e desafios.
+Atuo como `desenvolvedor full stack` e estou sempre em busca de novos aprendizados e desafios.
 
 <br />
 
