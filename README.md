@@ -7,6 +7,7 @@ class About extends Me {
   public programmingLanguages!: EProgrammingLanguages[];
   public frontendTools!: EFrontendTools[];
   public backendTools!: EBackendTools[];
+  public currentlyStudying!: (EProgrammingLanguages|EBackendTools|EFrontendTools)[];
 
   constructor(data: About) {
     super(data);
@@ -38,7 +39,11 @@ const niceToMeetYou = (): About => {
       EBackendTools.PRISMA,
       EBackendTools.TSOA,
       EBackendTools.SWAGGER_UI,
-      EBackendTools.FIREBASE
+      EBackendTools.FIREBASE,
+      EBackendTools.AWS
+    ],
+    currentlyStudying: [
+      EProgrammingLanguages.RUST
     ]
   });
 }
