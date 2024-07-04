@@ -53,11 +53,7 @@ niceToMeetYou();
 ## ☕ Contact me
 
 <div>  
-  <a href="https://wa.me/send?phone=5512988988321">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" />
-  </a>
+  <a href="https://wa.me/send?phone=5512988988321"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" /></a>
   
-  <a href="https://www.linkedin.com/in/matheuspdomingos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/matheuspdomingos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
 </div>
